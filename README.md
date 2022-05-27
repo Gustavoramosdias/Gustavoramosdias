@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou aprendendo a linguagem Python
 - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
-- 👯 Provavalmenta progamando com meu irmão
+- 👯 Provavelmente progamando com meu irmão
 - 🤔 Ajuda sempre é bem vinda duvidas tambem
 - 💬 Me pergunte sobre tudo 
 - 📫 A procura de um estágio na área
