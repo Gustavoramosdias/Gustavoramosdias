@@ -1,6 +1,6 @@
 ### Olá eu sou o Gustavo 👋
 
-- 🔭 Hoje estou aprendendo a linguagem Python
+- 🔭 Hoje estou aprendendo a Programar
 - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
 - 👯 Provavelmente progamando com meu irmão
 - 🤔 Ajuda sempre é bem vinda duvidas tambem
